@@ -4,7 +4,7 @@ Topik: Analisis Kompleksitas Algoritma Iteratif dan Rekursif
       untuk Menghitung Rata-rata Suhu Harian
 
 Kelompok Indomie :
-Azka Faris Akbar (103052300009)
+Azka Faris Akbar (103012580021)
 Dimas Dwi Kurniawan (103012580003)
 Muhamad Hudansah (103012580036)
 
