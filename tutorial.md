@@ -20,5 +20,4 @@ Cara menjalankan:
 Catatan:
 - Grafik DISIMPAN ke runtime_plot.png.
 - Grafik TIDAK ditampilkan (tidak pop-up) secara default agar tidak macet.
-  Jika ingin pop-up grafik: tambahkan --show
 """
